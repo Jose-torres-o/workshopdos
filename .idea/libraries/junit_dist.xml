@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/workshopEstructuraDatos/junit-dist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
